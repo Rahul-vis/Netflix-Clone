@@ -16,7 +16,4 @@ This is a Netflix-inspired webpage project that showcases a modern UI/UX design 
 - **Font Awesome**: Icons used throughout the project.
 - **Google Fonts**: Material Symbols for enhanced typography.
 
-## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+
